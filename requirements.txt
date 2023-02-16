@@ -1,4 +1,4 @@
-spacy==3.0.0
+spacy>=3.0.0,<4.0.0
 wordcloud==1.8.1
 textblob-de==0.4.3
 gensim==4.0.1
