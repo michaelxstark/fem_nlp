@@ -10,4 +10,5 @@ scikit-learn==0.24.2
 voila==0.4.0
 ipykernel==6.16.2
 de_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-3.0.0/de_core_news_sm-3.0.0-py3-none-any.whl
+shutup==0.2.0
 
